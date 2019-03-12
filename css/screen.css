@@ -297,6 +297,13 @@ a:focus {
     width: 75%;
   }
 }
+/* Utilities: max-width
+    -----------------
+    Utility classes to put specigic max widths onto elements */
+    .U-max-width-sm{
+      max-wid: 36em;
+    }
+    
 /*
     Print styles.
     ---
